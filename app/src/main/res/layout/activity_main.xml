@@ -92,7 +92,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="onClickAddElephants"
-            android:text="Слоны"
+            android:text="@string/elephants"
             android:textSize="@dimen/ts_20"
             tools:ignore="ButtonStyle,NestedWeights" />
         <Button
@@ -102,7 +102,7 @@
             android:layout_weight="1"
             android:gravity="center"
             android:onClick="onClickAddDucks"
-            android:text="Уточки "
+            android:text="@string/ducks"
             android:textSize="@dimen/ts_20"
             tools:ignore="ButtonStyle" />
 
@@ -114,5 +114,5 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         android:onClick="onClickButtonClear"
-        android:text="Сброс" />
+        android:text="@string/reset_score" />
 </LinearLayout>

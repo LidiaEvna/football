@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Soccer scoreboard "</string>
+    <string name="second_dot">:</string>
+    <string name="elephants">elephants</string>
+    <string name="score_of_match">score of match</string>
+    <string name="ducks">ducks</string>
+    <string name="image_of_ducks">image of ducks</string>
+    <string name="image_of_elephants">image of elephants</string>
+    <string name="reset_score">reset score</string>
+</resources>
